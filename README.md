@@ -448,7 +448,7 @@ https://0xpatrik.com/takeover-proofs/
 
 https://github.com/random-robbie/AWS-Scanner
 
-https://buckets.grayhatwarfare.com/
+https://buckets.grayhatwarfare.com/ 
 
 https://github.com/ankane/s3tk
 
