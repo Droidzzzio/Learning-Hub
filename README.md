@@ -208,16 +208,27 @@ https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-red
 
 **********************************************learning and downloading sites below ********************************************
 http://lira.epac.to/DOCS-TECH/Hacking/
+
 http://index-of.co.uk/Hacking/
+
 http://ftp.icm.edu.pl/packages/Hacked%20Team/FileServer/FileServer/OLD%20Fileserver/conferenze%20e%20seminari/2006%20Black%20Hat%20USA%202006/
+
 http://books.archive.tjw.moe/computing/
+
 http://index-of.es/Varios-2/
+
 https://repo.palkeo.com/repositories/mirror7.meh.or.id/ebooks/
+
 https://the-infosec.com/2017/04/18/penetration-testing-sharepoint/
+
 https://medium.com/@addictrao20/fixed-brute-force-instagram-accounts-passwords-938471b6e9d4
+
 https://hackersonlineclub.com/server-side-request-forgery-ssrf-types/
+
 https://hackersonlineclub.com/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-2/
+
 https://hackersonlineclub.com/mobile-security-penetration-testing/
+
 
 ******************************************RED TEAM TOOLKIT*********************************************************************
 
