@@ -580,3 +580,20 @@ https://github.com/0xInfection/Awesome-WAF
 
 https://github.com/m4ll0k/Awesome-Hacking-Tools
 
+*Miscellaeneous writeups and links *******************************************************************************
+
+
+https://esc.sh/blog/proftp-vulnerability-could-allow-an-attacker-to-gain-a-shell-in-your-server/
+
+https://medium.com/@ashrafrizvi3006/how-to-test-android-application-security-using-drozer-edc002c5dcac
+
+https://medium.com/mobile-penetration-testing/android-penetration-testing-courses-4effa36ac5ed
+
+https://www.nccgroup.trust/au/our-research/use-of-deserialisation-in-.net-framework-methods-and-classes/?research=Whitepapers
+
+https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html
+
+https://thesecurityexperts.wordpress.com/2018/10/28/journey-through-google-referer-leakage-bugs/
+
+https://hackademic.co.in/youtube-bug/
+
