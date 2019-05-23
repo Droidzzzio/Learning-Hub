@@ -366,8 +366,7 @@ https://authanvil.com/blog/the-concept-of-least-privilege
 
 https://cse.sc.edu/~lluo/csce813/reading-papers/mace.pdf
 
-https://books.google.co.in/books?id=pyZKDwAAQBAJ&pg=PA180&lpg=PA180&dq=horizontal+privilege+escalation+blogs&source=bl&
-ots=VrGkDMzD55&sig=ACfU3U2VZ41sL5TzyNgnNupWVZhGPaJZ7Q&hl=en&sa=X&ved=2ahUKEwi9v4WJqPTgAhUIS30KHeQaARs4MhDoATAAegQICRAB#v=onepage&q=horizontal%20privilege%20escalation%20blogs&f=false
+https://books.google.co.in/books?id=pyZKDwAAQBAJ&pg=PA180&lpg=PA180&dq=horizontal+privilege+escalation+blogs&source=bl&ots=VrGkDMzD55&sig=ACfU3U2VZ41sL5TzyNgnNupWVZhGPaJZ7Q&hl=en&sa=X&ved=2ahUKEwi9v4WJqPTgAhUIS30KHeQaARs4MhDoATAAegQICRAB#v=onepage&q=horizontal%20privilege%20escalation%20blogs&f=false
 
 https://rajeshmjmdr.blogspot.com/2016/02/flipkart-horizontal-privilege-escalation.html
 
