@@ -179,6 +179,32 @@ https://github.com/secfigo/Awesome-Fuzzing
 
 https://blog.cobalt.io/from-ssrf-to-port-scanner-3e8ef5921fbf
 
+https://medium.com/@sajeeb.l/weaponising-staged-cross-site-scripting-xss-payloads-7b917f605800
+
+https://medium.com/@androgaming1912/bugbounty-able-to-see-everyone-original-url-on-adfly-1ca62b60e720
+
+https://medium.com/@hninja049/stored-xss-in-https-www-bitcoinget-com-30f43202f017
+
+https://medium.com/@hninja049/zixem-xss-writeup-a684b04e5224
+
+https://medium.com/@baibhavanandjha/bypassing-instagrams-stories-restriction-5936f8a4f079
+
+https://medium.com/@__rishabh__/open-redirect-to-account-takeover-e939006a9f24
+
+https://medium.com/@artemlogutov/hunting-for-insecure-docker-registries-d87d293e6779
+
+https://medium.com/@daniel.marad/the-story-of-weird-google-bug-bounties-is-mime-sniffing-xss-a-real-thing-komodosec-c8476bfcaa56
+
+https://medium.com/@hninja049/writeup-xss-practice-lab-18bd8cefeea2
+
+https://medium.com/@arbazhussain/svg-xlink-ssrf-fingerprinting-libraries-version-450ebecc2f3c
+
+https://zeropwn.github.io/2019-05-13-xss-to-rce/
+
+https://www.netsparker.com/blog/web-security/content-type-status-code-leakage/
+
+https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/
+
 
 **********************************************learning and downloading sites below ********************************************
 http://lira.epac.to/DOCS-TECH/Hacking/
@@ -270,41 +296,74 @@ https://www.youtube.com/watch?v=6t8HbirL6TE
 
 ********************************PRIVILEGE ESCALATION******************************************
 https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/
+
 https://medium.com/bugbountywriteup/from-tomcat-to-nt-authority-system-a79fa09c4abb
+
 https://kongwenbin.wordpress.com/tag/privilege-escalation/
+
 https://gauravnarwani.com/priv-esc-highest-admin/
+
 https://medium.com/@hritik.3hs/exploiting-two-endpoints-to-get-account-takeover-651813d0a33b
+
 https://blog.ripstech.com/2018/wordpress-post-type-privilege-escalation/
+
 https://medium.com/bugbountywriteup/token-brute-force-to-account-take-over-to-privilege-escalation-to-organization-take-over-650d14c7ce7f
+
 https://medium.com/@vignesh4303/how-i-hacked-netflix-users-use-it-free-forever-9febb1427262
+
 https://blog.securitybreached.org/2018/10/27/privilege-escalation-like-a-boss/
+
 https://medium.com/@UpdateLap/privileged-escalation-in-facebook-messenger-rooms-e71cb7275101
+
 https://ioactive.com/discovering-and-exploiting-a-vulnerability-in-androids-personal-dictionary/
+
 https://www.ambionics.io/blog/prestashop-privilege-escalation
+
 https://medium.com/@rojanrijal/luminate-internal-privilege-escalation-admin-to-owner-2ca28e575985
+
 https://wesecureapp.com/2017/07/10/fabric-io-api-permission-apocalypse-privilege-escalations/
+
 https://seanmelia.files.wordpress.com/2017/06/django-privilege-escalation-e28093-zero-to-superuser.pdf
+
 https://blog.it-securityguard.com/a-tale-of-7-vulnerabilities-paypal-bug-bounty/
+
 https://josipfranjkovic.blogspot.com/2013/01/googlecom-cross-site-scripting-and.html
+
 https://www.roguesecurity.in/2018/01/20/hack-the-box-calamity-privilege-escalation-writeup/
+
 https://medium.com/@imranparray/privilege-escalation-on-private-program-a2a5548cde09
 
 
 *****************************blog on privilege escalation********************************
 https://blog.netwrix.com/2018/09/05/what-is-privilege-escalation/
+
 http://www.valencynetworks.com/penetration-testing-services/privilege-escalation.html
+
 https://bryanavery.co.uk/vertical-and-horizontal-privilege-escalation/
+
 https://pentest.blog/how-to-test-horizontal-vertical-authorization-issues-in-web-application/
+
 https://www.oreilly.com/library/view/cybersecurity-attack/9781788475297/b095afc6-bab6-43ed-b442-0f750a802928.xhtml
+
 http://www.w4rri0r.com/vulnerabilities-attacker-surface/privilege-escalation.html
+
 https://www.future-processing.pl/blog/privilege-escalation/
+
 https://outpost24.com/blog/Vertical-privilege-escalation
+
 https://authanvil.com/blog/the-concept-of-least-privilege
+
 https://cse.sc.edu/~lluo/csce813/reading-papers/mace.pdf
-https://books.google.co.in/books?id=pyZKDwAAQBAJ&pg=PA180&lpg=PA180&dq=horizontal+privilege+escalation+blogs&source=bl&ots=VrGkDMzD55&sig=ACfU3U2VZ41sL5TzyNgnNupWVZhGPaJZ7Q&hl=en&sa=X&ved=2ahUKEwi9v4WJqPTgAhUIS30KHeQaARs4MhDoATAAegQICRAB#v=onepage&q=horizontal%20privilege%20escalation%20blogs&f=false
+
+https://books.google.co.in/books?id=pyZKDwAAQBAJ&pg=PA180&lpg=PA180&dq=horizontal+privilege+escalation+blogs&source=bl&
+ots=VrGkDMzD55&sig=ACfU3U2VZ41sL5TzyNgnNupWVZhGPaJZ7Q&hl=en&sa=X&ved=2ahUKEwi9v4WJqPTgAhUIS30KHeQaARs4MhDoATAAegQICRAB#v=onepage&q=horizontal%20privilege%20escalation%20blogs&f=false
+
 https://rajeshmjmdr.blogspot.com/2016/02/flipkart-horizontal-privilege-escalation.html
+
 https://sysdig.com/blog/privilege-escalation-kubernetes-dashboard/
+
 https://github.com/MarioBartolome/Jenkins-pRCE-exploit
+
 *************************************************************************************************************************************
 
 https://tech.target.com/2019/03/15/SharePoint-Cross-Site-Scripting.html
@@ -408,6 +467,26 @@ https://alamot.github.io/reverse_shells/
 
 https://portswigger.net/web-security/sql-injection
 
+https://www.templarbit.com/blog/2018/01/10/api-security-checklist/
+
+https://www.soapui.org/rest-testing/getting-started.html
+
+https://github.com/mingrammer/api-security-checklist
+
+https://www.pentestgeek.com/burp-suite/playing-with-the-new-burp-suite-rest-api
+
+https://www.youtube.com/watch?v=43G_nSTdxLk
+
+https://www.peerlyst.com/posts/resource-a-list-of-api-security-guides-and-resources-karl-m-1
+
+https://www.rarefied.co/api-penetration-testing.html
+
+https://www.redteamsecure.com/api-enumeration-with-redteam-securitys-tool-purl/
+
+https://blog.cobalt.io/pen-testing-in-the-era-of-apis-and-microservices-797bf8d8a7b7
+
+https://blog.secureideas.com/2019/03/better-api-penetration-testing-with-postman-part-1.html
+
 
 ******************XSS blogs on detection and understanding****************************************************
 
@@ -484,4 +563,10 @@ https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-
 https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5
 
 https://developers.google.com/web/fundamentals/security/csp/
+
+
+*awesome github lists******************************************************************************************** 
+https://github.com/0xInfection/Awesome-WAF
+
+https://github.com/m4ll0k/Awesome-Hacking-Tools
 
