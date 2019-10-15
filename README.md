@@ -661,6 +661,32 @@ https://www.skeletonscribe.net/2013/05/practical-http-host-header-attacks.html
 
 https://medium.com/@vishnu0002/remote-code-execution-recon-wins-e9c1db79f3da
 
+https://medium.com/@heinthantzin/how-does-my-recon-win-250-in-15-minutes-a1992508b911
+
+https://medium.com/@appsecure/how-i-could-have-hacked-your-uber-account-e98e64ab51bb
+
+https://medium.com/@aayushpokhrel/how-i-made-my-first-from-finding-a-bug-in-facebook-da3b11e550f0
+
+https://robinverton.de/blog/2019/08/25/bug-bounty-bypassing-a-crappy-waf-to-exploit-a-blind-sql-injection/
+
+https://docs.google.com/presentation/d/1JdIjHHPsFSgLbaJcHmMkE904jmwPM4xdhEuwhy2ebvo/edit#slide=id.p
+
+https://docs.google.com/presentation/d/1JdIjHHPsFSgLbaJcHmMkE904jmwPM4xdhEuwhy2ebvo/edit#slide=id.p
+
+https://medium.com/@shivsahni2/aws-ns-takeover-356d2a293bca
+
+https://research.checkpoint.com/select-code_execution-from-using-sqlite/
+
+https://evanricafort.blogspot.com/2019/08/application-level-denial-of-service-dos.html
+
+https://gh0st.cn/archives/2019-10-01/1
+
+https://medium.com/@vickieli/how-to-find-more-idors-ae2db67c9489
+
+https://medium.com/@bilalmerokhel/recon-to-network-takeover-688309b17721
+
+https://www.rafaybaloch.com/
+
 ****************************************************XXE****************************************************************************************************************
 
 https://resources.infosecinstitute.com/xxe-attacks/#gref
@@ -816,5 +842,38 @@ https://github.com/JavierOlmedo/shodan-filters
 https://web-in-security.blogspot.com/2019/07/testing-saml-endpoints-for-xml.html
 
 https://danielmiessler.com/study/shodan/
+
+***************************************DOM XSS BLOGS WRITEUPS AND INFO*****************************************
+
+http://www.webappsec.org/projects/articles/071105.html
+
+https://0x62626262.wordpress.com/2015/10/01/dom-based-xss-introduction-2/
+
+https://www.mohamedharon.com/2019/09/dom-based-xss-in-private-program.html
+
+https://appio.dev/vulns/clickjacking-xss-on-google-org/
+
+https://medium.com/@80vul/from-http-domain-to-res-domain-xss-by-using-ie-adobes-pdf-activex-plugin-9f2a72a87aff
+
+https://medium.com/bugbountywriteup/dom-based-xss-or-why-you-should-not-rely-on-cloudflare-too-much-a1aa9f0ead7d
+
+https://mike-n1.github.io/Chain_XSS
+
+https://www.vpnmentor.com/blog/dom-xss-bug-affecting-tinder-shopify-yelp/
+
+https://medium.com/bugbountywriteup/reflected-dom-xss-and-clickjacking-on-https-silvergoldbull-de-bt-html-daa36bdf7bf0
+
+https://blog.mindedsecurity.com/2018/04/dom-based-cross-site-scripting-in.html   //important
+
+https://medium.com/@abdelfattahibrahim/from-recon-to-dom-based-xss-f279602a14cf
+
+https://blog.it-securityguard.com/bugbounty-paypal-dom-xss-main-domain/
+
+https://gauravnarwani.com/a-tale-of-3-xss/
+
+https://d-nb.info/1081246758/34
+
+https://blog.compass-security.com/2013/01/dom-based-xss-unsafe-javascript-functions/
+
 
 
