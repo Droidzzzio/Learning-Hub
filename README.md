@@ -1005,5 +1005,70 @@ https://d-nb.info/1081246758/34
 
 https://blog.compass-security.com/2013/01/dom-based-xss-unsafe-javascript-functions/
 
+*******************************FUZZING*************************************************************************************
+
+https://www.fuzzingbook.org/html/WebFuzzer.html
+
+https://www.guru99.com/fuzz-testing.html
+
+https://www.blackhat.com/presentations/bh-dc-07/Sutton/Presentation/bh-dc-07-Sutton-up.pdf
+
+************************************TOOL**********************
+
+https://github.com/gwen001/pentest-tools
+
+https://github.com/Shashank-In/TravisLeaks
+
+https://securitytrails.com/blog/github-dorks
+
+https://github.com/vavkamil/XFFenum/
+
+https://haxf4rall.com/2019/09/02/finddomain/?utm_source=dlvr.it&utm_medium=twitter
+
+https://github.com/jakejarvis/awesome-shodan-queries
+
+https://github.com/lc/jenkinz
+
+https://github.com/lc/subjs
+
+https://github.com/dylanaraps/pure-bash-bible
+
+https://github.com/bugbounty-site/calexe
+
+https://0x00sec.org/t/knowledge-is-free/6270
+
+*************************************************************************SSRF BLOGS AND WRITEUPS************************************************
+
+https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-3-b0f5997e3739
+
+https://medium.com/swlh/intro-to-ssrf-beb35857771f
+
+https://medium.com/@vickieli/exploiting-ssrfs-b3a29dd7437
+
+https://medium.com/@vickieli/bypassing-ssrf-protection-e111ae70727b
+
+
+
+
+
+****************************Javascript recon ************************************************
+
+https://jlajara.gitlab.io/posts/2018/10/18/js-recon.html
+
+https://medium.com/bugbountywriteup/bug-bounty-tips-tricks-js-javascript-files-bdde412ea49d
+
+https://blog.appsecco.com/static-analysis-of-client-side-javascript-for-pen-testers-and-bug-bounty-hunters-f1cb1a5d5288
+
+https://medium.com/@arbazhussain/xss-using-dynamically-generated-js-file-a7a10d05ff08
+
+https://www.scip.ch/en/?labs.20160414
+
+
+*****************BUG BOUNTY REFERENCES***********************************
+
+https://cyberzombie.in/bug-bounty-methodology-techniques-tools-procedures/
+
+https://github.com/ngalongc/bug-bounty-reference
+
 
 
