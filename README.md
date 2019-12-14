@@ -205,6 +205,104 @@ https://www.netsparker.com/blog/web-security/content-type-status-code-leakage/
 
 https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/
 
+https://medium.com/@nuraalamdipu/xss-403-forbidden-bypass-write-up-e070de52bc06
+
+https://www.jonbottarini.com/2019/06/17/using-burp-suite-match-and-replace-settings-to-escalate-your-user-privileges-and-find-hidden-features/
+
+https://0x00sec.org/t/fun-bypass-xss-detection-waf/12228
+
+https://blog.zsec.uk/subdomainhijack/    //aws cloudfront takeover writeup
+
+https://digi.ninja/blog/cloudfront_example.php   //cloudfront domain takeover writeup
+
+https://medium.com/@vysec.private/domain-fronting-via-cloudfront-alternate-domains-f28b0675e500
+
+https://medium.com/iocscan/dom-based-cross-site-scripting-dom-xss-3396453364fd
+
+https://medium.com/@mashoud1122/cors-misconfiguration-account-takeover-out-of-scope-to-grab-items-in-scope-66d9d18c7a46
+
+https://medium.com/nassec-cybersecurity-writeups/how-i-was-able-to-uniquely-bypass-authentication-while-web-pentesting-cd5d8d6a2837
+
+https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/
+
+https://www.noob.ninja/2019/12/spilling-local-files-via-xxe-when-http.html
+
+https://www.corben.io/jenkins-to-full-pwnage/
+
+https://research.securitum.com/xss-in-amp4email-dom-clobbering/
+
+https://about.gitlab.com/blog/2019/11/29/shopping-for-an-admin-account/
+
+https://www.kitploit.com/2019/12/apk-mitm-cli-application-that-prepares.html?m=1
+
+https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194
+
+https://unit42.paloaltonetworks.com/exploits-in-the-wild-for-vbulletin-pre-auth-rce-vulnerability-cve-2019-16759/
+
+https://securitytrails.com/blog/subdomain-takeover-tips
+
+https://medium.com/@vignesh4303/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248
+
+https://medium.com/@ricardoiramar/reusing-cookies-23ed4691122b
+
+https://blog.netwrix.com/2018/05/29/regular-expressions-for-beginners-how-to-get-started-discovering-sensitive-data/
+
+https://blog.zeddyu.info/2019/12/08/HTTP-Smuggling-en/
+
+https://medium.com/@d0nut/attacks-on-applications-of-k-anonymity-for-the-rest-of-us-426d3b75145c
+
+https://medium.com/@kaviru.mihisara/double-submit-cookie-pattern-820fc97e51f2
+
+https://medium.com/better-programming/an-introduction-to-buffer-overflow-vulnerability-760f23c21ebb
+
+https://medium.com/@pratyush1337/idor-bugs-are-pure-love-7k-250-54f3235ee943
+
+https://medium.com/bugbountywriteup/time-based-blind-sql-injection-in-graphql-39a25a1dfb3c
+
+https://blog.usejournal.com/graphql-bug-to-steal-anyones-address-fc34f0374417
+
+https://medium.com/cyberverse/automating-burp-to-find-idors-2b3dbe9fa0b8
+
+https://blog.intigriti.com/2019/12/05/bug-bytes-47-bug-bytes-47-sectalks-my-first-rce-smuggler-py-and-interview-with-0xacb/
+
+https://rezo.blog/hacking/2019/11/29/rce-via-imagetragick.html
+
+https://hackerone.com/reports/736863
+
+https://medium.com/@pflash0x0punk/ssrf-via-ffmpeg-hls-processing-a04e0288a8c5
+
+https://medium.com/@navne3t/150-xss-at-error-page-of-respository-code-4fc628892742
+
+https://evanricafort.blogspot.com/2019/12/html-injection-to-xss-bypass-in.html
+
+https://hipotermia.pw/bb/http-desync-idor
+
+https://medium.com/@anggaid/bug-idor-apps-misteraladin-10e8c71edabf
+
+https://ysamm.com/?p=280
+
+https://medium.com/@osama.alaa/egctf-2019-secure-document-portal-656e69a2d8c7
+
+https://shells.systems/category/static-code-analysis/
+
+https://medium.com/@tristanfarkas/finding-a-security-bug-in-discord-and-what-it-taught-me-516cda561295
+
+https://medium.com/bugbountywriteup/stories-of-idor-part-2-29d313a39e55?
+
+https://medium.com/@abidafahd/how-i-was-able-to-hunt-a-rare-bug-in-a-private-program-caec0ebaef7f
+
+https://memn0ps.github.io/2019/11/02/HTTP-Request-Smuggling-CL-TE.html
+
+https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/
+
+http://ghostlulz.com/exposed-log-and-configuration-files/
+
+https://medium.com/bugbountywriteup/spoylleak-4ea0a8641561
+
+https://medium.com/@Rising_Hunter/privilege-escalation-with-simple-recon-da4e50fea9e5?
+
+http://marduc812.com/2018/12/19/find-subdomains-using-project-sonar-by-rapid7/
+
 
 **********************************************learning and downloading sites below ********************************************
 http://lira.epac.to/DOCS-TECH/Hacking/
@@ -843,7 +941,14 @@ https://docs.intersystems.com/latest/csp/docbook/DocBook.UI.Page.cls?KEY=ROBJ_me
 
 https://www.w3.org/TR/2000/NOTE-SOAP-20000508/
 
-cloudflare bypass https://pastebin.com/i8Ans4d4
+https://phonexicum.github.io/infosec/xxe.html
+
+https://www.noob.ninja/2019/12/spilling-local-files-via-xxe-when-http.html
+
+
+**************************cloudflare bypass ***********************************************
+
+https://pastebin.com/i8Ans4d4
 
 https://portswigger.net/blog/bypassing-csp-with-policy-injection
 
@@ -1037,6 +1142,14 @@ https://github.com/bugbounty-site/calexe
 
 https://0x00sec.org/t/knowledge-is-free/6270
 
+https://github.com/allyomalley/LiveTargetsFinder/
+
+https://spenkk.github.io/bugbounty/Configuring-Frida-with-Burp-and-GenyMotion-to-bypass-SSL-Pinning/
+
+https://github.com/ZeddYu/HTTP-Smuggling-Lab
+
+https://github.com/secrary/Andromeda
+
 *************************************************************************SSRF BLOGS AND WRITEUPS************************************************
 
 https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-3-b0f5997e3739
@@ -1047,7 +1160,7 @@ https://medium.com/@vickieli/exploiting-ssrfs-b3a29dd7437
 
 https://medium.com/@vickieli/bypassing-ssrf-protection-e111ae70727b
 
-
+https://unit42.paloaltonetworks.com/server-side-request-forgery-exposes-data-of-technology-industrial-and-media-organizations/
 
 
 
@@ -1063,6 +1176,7 @@ https://medium.com/@arbazhussain/xss-using-dynamically-generated-js-file-a7a10d0
 
 https://www.scip.ch/en/?labs.20160414
 
+https://medium.com/swlh/the-client-side-battle-against-javascript-attacks-is-already-here-656f3602c1f2
 
 *****************BUG BOUNTY REFERENCES***********************************
 
@@ -1070,5 +1184,67 @@ https://cyberzombie.in/bug-bounty-methodology-techniques-tools-procedures/
 
 https://github.com/ngalongc/bug-bounty-reference
 
+https://github.com/S3cur3Th1sSh1t/Pentest-Tools#Windows-Privilege-Escalation-/-Audit
+
+https://github.com/gwen001/pentest-tools
+
+**************************ANDROID APK TESTING BLOGS**************************
+
+https://medium.com/@fs0c131y/how-i-found-the-database-of-the-donald-daters-app-af88b06e39ad
+
+https://medium.com/@danangtriatmaja/firebase-database-takover-b7929bbb62e1
+
+https://medium.com/@thomas_shone/reverse-engineering-apis-from-android-apps-part-1-ea3d07b2a6c
+
+https://medium.com/google-developer-experts/a-follow-up-on-how-to-store-tokens-securely-in-android-e84ac5f15f17
+
+****************************SHODAN QUERIES AND FILTERS*************************************
+
+https://github.com/jakejarvis/awesome-shodan-queries
+
+https://medium.com/@GAYA3_R/some-useful-shodan-queries-5f31be3c486e
+
+https://danielmiessler.com/study/shodan/
+
+https://github.com/JavierOlmedo/shodan-filters
+
+**************************************DLL HIJACKING****************************************************************************
+
+https://medium.com/@AndrewRollins/discord-dll-hijack-cb77a6a288cf
+
+https://secbytes.net/Arkham-Hack-The-Box-Writeup/
+
+https://www.alphabot.com/security/blog/2017/java/Misconfigured-JSF-ViewStates-can-lead-to-severe-RCE-vulnerabilities.html
+
+https://medium.com/bug-bounty-hunting/dll-injection-attacks-in-a-nutshell-71bc84ac59bd
+
+https://medium.com/@threathuntingteam/notepad-and-unsigned-dlls-a5cdcfb86749
+
+https://medium.com/@BaYinMin/cve-2017-12480-sandboxie-installer-dll-hijacking-or-unsafe-dll-loading-vulnerability-41ad0562f41
+
+https://medium.com/@digital.entropy/dll-hijacking-when-computers-are-helpless-c02905df8f00
+
+https://www.howtogeek.com/school/sysinternals-pro/lesson4/
+
+https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1493862085.pdf
+
+https://hackerone.com/reports/630903
+
+https://medium.com/@Sebdraven/malicious-document-targets-vietnamese-officials-acb3b9d8b80a
+
+https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992
+
+https://hacknpentest.com/windows-privilege-escalation-dll-hijacking/
+
+https://unit42.paloaltonetworks.com/plugx-uses-legitimate-samsung-application-for-dll-side-loading/
+
+https://www.youtube.com/watch?v=5t5CX6hPhfU
+https://www.youtube.com/watch?v=GEfeF4crBiA&t=5s
+https://www.youtube.com/watch?v=3SBFyK9Asyg
+https://www.youtube.com/watch?v=duIJ4bA6JmE&list=PLhIdnSS1rFVmdaeSzRIWxnRoho2oIHW5M&index=3
+
+http://websecurity247.blogspot.com/2016/07/dll-hijacking-attacks.html
+
+https://pentestlab.blog/2017/03/27/dll-hijacking/
 
 
