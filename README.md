@@ -1241,6 +1241,8 @@ https://github.com/S3cur3Th1sSh1t/Pentest-Tools#Windows-Privilege-Escalation-/-A
 
 https://github.com/gwen001/pentest-tools
 
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+
 **************************ANDROID APK TESTING BLOGS**************************
 
 https://medium.com/@fs0c131y/how-i-found-the-database-of-the-donald-daters-app-af88b06e39ad
