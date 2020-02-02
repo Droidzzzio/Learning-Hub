@@ -1203,6 +1203,8 @@ https://github.com/secrary/Andromeda
 
 https://github.com/random-robbie/bruteforce-lists
 
+https://github.com/ameenmaali/wordlistgen
+
 *************************************************************************SSRF BLOGS AND WRITEUPS************************************************
 
 https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-3-b0f5997e3739
