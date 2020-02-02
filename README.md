@@ -1,4 +1,4 @@
-//Important medium links 
+//MISCELLAENOUS WRITEUPS AND BLOGS FOR ALMOST EVERY TYPE OF BUG 
 
 https://medium.com/@galolbardes/learn-how-easy-is-to-bypass-firewalls-using-dns-tunneling-and-also-how-to-block-it-3ed652f4a000
 
@@ -303,6 +303,49 @@ https://medium.com/@Rising_Hunter/privilege-escalation-with-simple-recon-da4e50f
 
 http://marduc812.com/2018/12/19/find-subdomains-using-project-sonar-by-rapid7/
 
+https://github.blog/2013-04-09-yummy-cookies-across-domains/
+
+https://medium.com/@rootxharsh_90844/abusing-feature-to-steal-your-tokens-f15f78cebf74
+
+https://ngailong.wordpress.com/author/ngalog/
+
+https://thoughtbot.com/blog/is-your-site-leaking-password-reset-links
+
+https://medium.com/bugbountywriteup/cross-site-scripting-on-a-big-banks-payment-gateway-a986a2ba5d7?
+
+https://medium.com/@rubiojhayz1234/toyotas-password-reset-token-and-email-address-leak-via-referer-header-b0ede6507c6a
+
+https://medium.com/@cc1h2e1/bug-bounty-check-list-by-c1-2beb7ae3c116
+
+https://github.com/gwen001/github-search
+
+https://medium.com/@vickieli/sitemap-xml-6ecc3b14b4f?
+
+https://jlajara.gitlab.io/posts/2019/11/30/XSS_20_characters.html
+
+https://github.com/xdavidhu/awesome-google-vrp-writeups
+
+https://blog.reconless.com/samesite-by-default/
+
+https://www.bedefended.com/papers/cors-security-guide
+
+https://medium.com/taptuit/exploiting-xss-via-markdown-72a61e774bf8
+
+https://esoln.net/blog/2019/09/11/shodan-to-bug-bounty-unauthenticated-kibana-log-server/
+
+https://community.turgensec.com/ssh-hacking-guide/
+
+https://www.scip.ch/en/?labs.20160414
+
+https://captmeelo.com/pentest/2019/12/30/lesser-known-tools-for-android-pentest.html
+
+https://medium.com/cyberverse/bug-bounty-with-bash-438596ff72f5
+
+https://blog.detectify.com/2020/01/07/guest-blog-streaak-my-recon-techniques-from-2019/
+
+https://medium.com/@maverickNerd/recon-everything-48aafbb8987
+
+https://medium.com/@know.0nix/hunting-good-bugs-with-only-html-d8fd40d17b38
 
 **********************************************learning and downloading sites below ********************************************
 http://lira.epac.to/DOCS-TECH/Hacking/
@@ -1150,6 +1193,8 @@ https://github.com/ZeddYu/HTTP-Smuggling-Lab
 
 https://github.com/secrary/Andromeda
 
+https://github.com/random-robbie/bruteforce-lists
+
 *************************************************************************SSRF BLOGS AND WRITEUPS************************************************
 
 https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-3-b0f5997e3739
@@ -1197,6 +1242,10 @@ https://medium.com/@danangtriatmaja/firebase-database-takover-b7929bbb62e1
 https://medium.com/@thomas_shone/reverse-engineering-apis-from-android-apps-part-1-ea3d07b2a6c
 
 https://medium.com/google-developer-experts/a-follow-up-on-how-to-store-tokens-securely-in-android-e84ac5f15f17
+
+https://captmeelo.com/pentest/2019/12/30/lesser-known-tools-for-android-pentest.html
+
+
 
 ****************************SHODAN QUERIES AND FILTERS*************************************
 
@@ -1300,6 +1349,76 @@ https://paper.seebug.org/886/
 https://rezo.blog/hacking/2019/11/29/rce-via-imagetragick.html
 
 https://medium.com/magebit/magento-web-exploit-case-studies-bac57add8c0e
+
+https://shells.systems/category/static-code-analysis/
+
+OAUTH WRITEUPS AND LINKS ************************************************************************************************************************************************
+
+https://ahussam.me/how-i-hacked-oculus-oauth-ebay-ibm/
+
+https://blog.rakeshmane.com/2016/09/bug-bounty-account-takeover.html
+
+https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/
+
+https://medium.com/@arbazhussain/stealing-access-token-of-one-drive-integration-by-chaining-csrf-vulnerability-779f999624a7
+
+https://medium.com/@arbazhussain/stealing-0auth-token-mitm-3eeab46e96cf
+
+https://blog.intothesymmetry.com/2018/02/bug-bounty-left-over-and-rant-part-iii.html
+
+https://medium.com/@saamux/applying-a-small-bypass-to-steal-facebook-session-tokens-in-uber-5b9638b7a18c
+
+https://medium.com/@protector47/full-account-takeover-via-referrer-header-oauth-token-steal-open-redirect-vulnerability-chaining-324a14a1567
+
+https://www.safetydetectives.com/blog/microsoft-outlook/
+
+https://medium.com/@logicbomb_1/bugbounty-user-account-takeover-i-just-need-your-email-id-to-login-into-your-shopping-portal-7fd4fdd6dd56
+
+https://shkspr.mobi/blog/2018/12/twitter-bug-bounty/
+
+https://medium.com/@Jacksonkv22/oauth-misconfiguration-lead-to-complete-account-takeover-c8e4e89a96a
+
+https://medium.com/@nahoragg/chaining-tricky-oauth-exploitation-to-stored-xss-b67eaea4aabd
+
+https://xpoc.pro/oauth-authentication-bypass-on-airbnb-acquisition-using-weird-1-char-open-redirect/
+
+https://medium.com/@androgaming1912/story-about-facebook-oauth-account-takeover-6537ff32281b
+
+https://medium.com/@madguyyy/bookmyshow-account-takeover-using-social-login-84178f116e42
+
+https://medium.com/oad-earth/bug-or-feature-github-adventure-001-eae9bea48ae8
+
+https://medium.com/@0xgaurang/case-study-oauth-misconfiguration-leads-to-account-takeover-d3621fe8308b
+
+https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html
+
+https://medium.com/@tristanfarkas/finding-a-security-bug-in-discord-and-what-it-taught-me-516cda561295
+
+https://medium.com/@rootxharsh_90844/abusing-feature-to-steal-your-tokens-f15f78cebf74
+
+
+******RESET PASSWORD FLAW *************************************************************************************************************************************************************************
+
+https://medium.com/@protector47/password-reset-vulnerability-full-account-takeover-insecure-direct-object-reference-c4a9a3ea8268
+
+https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3
+
+https://ninadmathpati.com/how-i-was-able-to-earn-1000-with-just-10-minutes-of-bug-bounty/
+
+https://medium.com/@adeshkolte/full-account-takeover-changing-email-and-password-of-any-user-through-api-parameters-3d527ab27240
+
+https://thezerohack.com/hack-instagram-again
+
+https://medium.com/@0xankush/readme-com-account-takeover-bugbounty-fulldisclosure-a36ddbe915be
+
+https://medium.com/@bilalmerokhel/pwn-them-all-bugbounty-4ee60e13c83
+
+https://medium.com/@vbharad/account-takeover-through-password-reset-poisoning-72989a8bb8ea
+
+https://medium.com/@shahjerry33/password-reset-token-leak-via-referrer-2e622500c2c1
+
+https://medium.com/bugbountywriteup/how-i-discovered-an-interesting-account-takeover-flaw-18a7fb1e5359
+
 
 
 
