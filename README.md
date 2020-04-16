@@ -454,6 +454,8 @@ https://www.youtube.com/watch?v=WWxLuvysI4U
 
 https://www.youtube.com/watch?v=6t8HbirL6TE
 
+https://www.youtube.com/watch?v=4iMqX7mI8UA&feature=youtu.be
+
 ********************************PRIVILEGE ESCALATION******************************************
 https://spyclub.tech/2019/02/26/horizontal-privilege-escalation-on-quora/
 
@@ -1161,6 +1163,8 @@ https://d-nb.info/1081246758/34
 
 https://blog.compass-security.com/2013/01/dom-based-xss-unsafe-javascript-functions/
 
+https://blog.truesec.com/2020/04/03/bypassing-modern-xss-mitigations-with-code-reuse-attacks/
+
 *******************************FUZZING*************************************************************************************
 
 https://www.fuzzingbook.org/html/WebFuzzer.html
@@ -1217,7 +1221,11 @@ https://medium.com/@vickieli/bypassing-ssrf-protection-e111ae70727b
 
 https://unit42.paloaltonetworks.com/server-side-request-forgery-exposes-data-of-technology-industrial-and-media-organizations/
 
+https://hackersonlineclub.com/server-side-request-forgery-ssrf-types/
 
+https://hackersonlineclub.com/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-2/
+
+https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb
 
 ****************************Javascript recon ************************************************
 
@@ -1257,7 +1265,9 @@ https://medium.com/google-developer-experts/a-follow-up-on-how-to-store-tokens-s
 
 https://captmeelo.com/pentest/2019/12/30/lesser-known-tools-for-android-pentest.html
 
+https://blog.securitybreached.org/2020/03/17/getting-started-in-android-apps-pentesting/
 
+https://mobile-security.gitbook.io/mobile-security-testing-guide/
 
 ****************************SHODAN QUERIES AND FILTERS*************************************
 
@@ -1431,6 +1441,45 @@ https://medium.com/@shahjerry33/password-reset-token-leak-via-referrer-2e622500c
 
 https://medium.com/bugbountywriteup/how-i-discovered-an-interesting-account-takeover-flaw-18a7fb1e5359
 
+*************************AUTHENTICATION BYPASS ********************************************************************************************************************************
+
+https://medium.com/@zseano/its-all-in-the-detail-email-leak-account-takeover-thanks-to-waybackmachine-extensive-4be365580dd7
+
+https://medium.com/@logicbomb_1/bugbounty-user-account-takeover-i-just-need-your-email-id-to-login-into-your-shopping-portal-7fd4fdd6dd56
+
+https://www.randorisec.fr/client-side-validation/
+
+https://medium.com/@Vibhurushi_Chotaliya/password-bypass-and-something-else-cded0847c9df
+
+https://xpoc.pro/oauth-authentication-bypass-on-airbnb-acquisition-using-weird-1-char-open-redirect/
+
+https://medium.com/@hackerb0y/rest-framework-admin-panel-bypass-and-how-i-recon-for-this-vulnerability-a0ee41b01102
+
+https://medium.com/@himanshu_pdy/ldap-admin-account-bypassed-2cc8b264d66e
+
+https://medium.com/@santoshbrl5/facebook-new-account-verification-bypass-c589017f2faf
+
+https://medium.com/sourav-sahana/bypass-mobile-pin-verification-d2c571afa3aa
+
+https://medium.com/@bathinivijaysimhareddy/tale-of-account-takeovers-part-1-b24e1f3c3187
+
+https://medium.com/@aniltom/where-is-my-train-tracking-to-hacking-d388e4b97225
+
+https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/
+
+https://medium.com/@dimazarno/bypassing-email-filter-which-leads-to-sql-injection-e57bcbfc6b17
+
+https://medium.com/hackcura/blind-idor-leads-to-change-personal-details-of-the-companys-employees-acc2e0701155
+
+https://medium.com/@ch3ckm4te/self-xss-to-account-takeover-72c89775cf8f
+
+https://medium.com/@vbharad/account-takeover-via-modifying-email-id-codeigniter-framework-ca30741ad297
+
+https://medium.com/bugbountywriteup/broke-limited-scope-with-a-chain-of-bugs-ef734ac430f5
+
+https://jlajara.gitlab.io/posts/2020/02/19/Bypass_WAF_Unicode.html
+
+https://medium.com/@iSecMax/two-factor-authentication-security-testing-and-possible-bypasses-f65650412b35
 
 
 
